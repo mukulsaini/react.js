@@ -11,7 +11,9 @@ The jsx files is compiled using webpack.
 # To run locally 
 
 1- Clone this repo locally and then run npm install
+
 2- after that run command webpack in the root folder of the project directory in which there is webpack-config file
+
 3- after this run ee.html in your browser
 
 
